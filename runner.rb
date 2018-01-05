@@ -1,0 +1,3 @@
+require_relative "lib/customers_near_me"
+
+CustomersNearMe.build_with_default_options.call
